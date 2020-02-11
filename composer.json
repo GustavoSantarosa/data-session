@@ -1,0 +1,27 @@
+{
+    "name": "gustavo-santarosa/data-session",
+    "description": "gerenciar sessões",
+    "type":"library",
+    "version": "1.0",
+    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Gustavo Santarosa Pinto",
+            "email": "gustavo-computacao@hotmail.com",
+            "role": "creator"
+        }
+    ],
+    "require": {
+        "php":">7.2"
+    },
+    "minimum-stability": "stable",
+    "autoload":{
+        "psr-4":{
+            "src\\": "src"
+        }
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}
