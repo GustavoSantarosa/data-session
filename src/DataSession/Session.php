@@ -1,6 +1,6 @@
 <?php
 
-namespace GustavoSantarosa\DataSession;
+namespace DataSession;
 
  /**
  * Classe designada a armazenar as sessões
@@ -12,7 +12,7 @@ namespace GustavoSantarosa\DataSession;
  * Diretório Pai - lib
  * Arquivo - DataSession.php
  */
-class DataSession
+class Session
 {
     protected $session;
     protected $id;
