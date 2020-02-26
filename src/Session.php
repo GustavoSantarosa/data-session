@@ -1,6 +1,6 @@
 <?php
 
-namespace DataSession;
+namespace GustavoSantarosa\Session;
 
  /**
  * Classe designada a armazenar as sessões
